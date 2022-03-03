@@ -1,10 +1,19 @@
-### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/longtianME">
+    <img src="https://github-readme-stats.vercel.app/api?username=longtianME&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/longtianME">
+    <img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
 <!--
 **longtianME/longtianME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
